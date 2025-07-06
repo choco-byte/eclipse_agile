@@ -1,6 +1,5 @@
 
 import 'package:flutter/material.dart';
-//Halaman Settings
 class SettingPage extends StatelessWidget {
   const SettingPage({super.key});
 
@@ -47,7 +46,6 @@ class SettingPage extends StatelessWidget {
   }
 }
 
-//Halaman Notification Settings
 class NotificationSettingsPage extends StatefulWidget {
   const NotificationSettingsPage({super.key});
 
